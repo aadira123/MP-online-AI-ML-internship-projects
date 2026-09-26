@@ -1,14 +1,14 @@
 # 👤 Face Recognition using CNN — Labeled Faces in the Wild (LFW)
 
-**Name:** Akshat Garg  
+**Name:** Aadira Rajeev  
 
-**Registration Number:** 23BCE10641
+**Registration Number:** 23BHI10136
 
 **Application Number:** IN26011052
 
 **Batch Number:** 1A
 
-**Email ID:** akshat.23bce10641@vitbhopal.ac.in 
+**Email ID:** aadira.23bhi10136@vitbhopal.ac.in 
 
 A deep learning project that recognizes **faces of 7 public figures** from the **LFW (Labeled Faces in the Wild)** dataset using a custom **Convolutional Neural Network (CNN)** built with TensorFlow/Keras, targeting **90%+ accuracy**.
 
